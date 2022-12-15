@@ -5,5 +5,5 @@ https://openai.com/dall-e-2/
 
 https://openai.com/blog/chatgpt/
 
-#Not free: 
+#Not free: <br>
 skylum.com
